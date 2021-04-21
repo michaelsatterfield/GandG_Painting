@@ -27,7 +27,7 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
           <Link
-              to="/"
+              to="/page-3"
               style={{
                   color: `white`,
                   textDecoration: `none`,
